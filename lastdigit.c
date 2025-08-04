@@ -9,4 +9,6 @@ printf("Last Digit is : %d \n", last);
 return 0;
 ///addd some//
 ///comments///
+
+/////comments///
 }
